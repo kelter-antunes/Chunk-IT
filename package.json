@@ -1,0 +1,19 @@
+{
+  "name": "chunk-it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelter-antunes/Chunk-IT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelter-antunes/Chunk-IT/issues"
+  },
+  "homepage": "https://github.com/kelter-antunes/Chunk-IT#readme"
+}
