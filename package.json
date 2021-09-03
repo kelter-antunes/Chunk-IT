@@ -3,15 +3,13 @@
   "version": "0.0.1",
   "description": "Javascript chuncks uploader",
   "scripts": {
-    "build": "uglifyjs scripts.js --compress --mangle --warn --output lib/scripts.min.js"
+    "build": "gulp"
   },
   "author": "...",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
-    "gulp-minify": "^3.1.0"
-  },
-  "dependencies": {
-    "uglify-js": "^3.3.11"
+    "gulp-minify": "^3.1.0",
+    "gulp-strip-debug": "^4.0.0"
   }
 }

@@ -49,6 +49,8 @@ const uploader = function () {
 
         this.fileId = this.uuidv4();
         this.sendNext();
+
+        console.log('test');
     }
 
     Uploader.prototype.sendNext = function() {
